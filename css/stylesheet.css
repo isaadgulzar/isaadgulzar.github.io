@@ -568,6 +568,7 @@ button:focus {
         font-size: 30px !important;
         margin-left: -10px;
         margin-bottom: 22px;
+        padding: .3rem 0px !important;
     }
     .nav-item a[href="#About"]:hover::before
     {
