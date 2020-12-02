@@ -145,11 +145,13 @@ a {
 {
     float: left;
     width: 75%;
+    overflow: hidden;
 }
 .skill-progressBar
 {
     background: var(--Gold);
     width: 75%;
+    overflow: hidden;
 }
 #About .text-color {
     color: var(--MatteBlack);
